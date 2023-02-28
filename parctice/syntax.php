@@ -100,6 +100,8 @@ echo "Welcome to Pradeep PHP practice";?>
  //$this = 23;
  //echo $this;
  ?>
+ <?
+ ?>
 
 
 </body>
